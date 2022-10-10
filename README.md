@@ -1,2 +1,2 @@
 # ShiroiSenshi 
-Just little JS DrumKit. This drumkit created for training in JS and for fun. Enjoy and have fun with me)
+Just my little practing in html, css, javascript, React. Enjoy and have fun with me)
